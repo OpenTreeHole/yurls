@@ -1,4 +1,4 @@
-# xurls
+# yurls
 
 Extract urls from text using regular expressions. Requires Go 1.22 or later.
 
